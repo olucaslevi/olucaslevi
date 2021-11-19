@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem vindo. 👋
 
 <!--
 **olucaslevi/olucaslevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucaslevi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucaslevi&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ 
+  ![Snake animation](https://github.com/olucaslevi/olucaslevi/blob/output/github-contribution-grid-snake.svg)
+ 
