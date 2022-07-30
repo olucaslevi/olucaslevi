@@ -2,6 +2,7 @@
 <h2>Welcome 👋</h2>
 <p>Here below are some technologies that I am familiar with. Maybe some code comments will be in Portuguese</p>
 <div align="center"> 
+  <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
