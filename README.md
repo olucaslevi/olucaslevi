@@ -1,10 +1,6 @@
-### Bem vindo. 👋
-
-<div align="center">
-  <a href="https://github.com/olucaslevi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucaslevi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucaslevi&layout=compact&langs_count=7&theme=dark"/>
-</div>
+###
+<h2>Welcome 👋</h2>
+<p>Here below are some technologies that I am familiar with. Maybe some code comments will be in Portuguese</p>
 <div align="center"> 
   <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
